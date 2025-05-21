@@ -6,8 +6,8 @@ This analysis was conducted to gain insights into the sales performance of a bev
 # 📄 Sheet Overview:   
 ![image](https://github.com/user-attachments/assets/09241121-6680-4652-811e-28fe4fded463)
 ## 1. Total Monthly Sales   
-Displays total revenue for each month.   
-Useful for identifying peak sales periods and seasonality patterns.   
+- Displays total revenue for each month.
+- Useful for identifying peak sales periods and seasonality patterns.   
 
 ## 2. Top-Selling Drinks   
 - Ranks all beverage products based on total sales.   
